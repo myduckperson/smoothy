@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+/* zeblock */
+.news{
+    position: relative;
+}
+.new{
+position: absolute;
+top: 50%;
+left: 950px;
+text-align: center;
+background-color: blanchedalmond;
+}
+.zews{
+    
+    z-index: -1;
+    
+    text-align: center;
+}
+.text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 400px;
+    width: 100px;
+    background-color: aliceblue;
+    color: black;
+}
+.text2{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    width: 100px;
+    right: 400px;
+    background-color: aliceblue;
+}
+.wide{
+width: 2000px;
+    height: 300px;
+}
+/* zeblock */
+/* BestEver */
+.BestEver{
+    position: relative;
+}
+.wall{
+    position: relative;
+}
+.background{
+    height: 450px;
+    width: 2000px;
+}
+.achivments{
+    position: absolute;
+    top: 50%;
+    left: 950px;
+    background-color: blanchedalmond;
+}
+.ramka{
+    position: absolute;
+    top: 20%;
+    left: 200px;
+}
+.diplom{
+    height: 300px;
+}
+.PD{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+/*The best ever*/
+.ramka2{
+    position: absolute;
+    top: 20%;
+    right: 200px;
+}
+.gramota{
+    height: 300px;
+}
+.PD2{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+/* BestEver */
